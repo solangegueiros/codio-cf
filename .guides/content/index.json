@@ -12,7 +12,16 @@
 	"hideSectionsToggle": false,
 	"hideBackToDashboard": false,
 	"protectLayout": false,
-	"order": [
-		"Chainlink-Fundamentals-All-88a6"
+	"order": [	
+		"Chainlink-Fundamentals-All-88a6",
+		"Solidity-Fundamentals-4cbf",
+		"Smart-Contract-Libraries-23b9",
+		"ERC20-Tokens-2fb2",
+		"NTFs-1f33",
+		"Oracles-01-389f",
+		"Chainlink-01-36e2",
+		"Chainlink-Data-Feeds-abbf",
+		"Chainlink-Automation-1b30",
+		"Automation-Custom-logic-Trigger-638c"
 	]
 }

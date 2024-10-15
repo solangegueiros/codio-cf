@@ -1,0 +1,17 @@
+{
+	"id": "1cca537b-d05d-3ba8-aa8e-b068ab68bcaa",
+	"title": "Solidity 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

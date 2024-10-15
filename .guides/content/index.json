@@ -12,16 +12,32 @@
 	"hideSectionsToggle": false,
 	"hideBackToDashboard": false,
 	"protectLayout": false,
-	"order": [	
+	"order": [
 		"Chainlink-Fundamentals-All-88a6",
-		"Solidity-Fundamentals-4cbf",
+		"Solidity-01-4cbf",
+		"Solidity-02-1cca",
+		"Solidity-03-97dc",
+		"Solidity-04-9f5a",
 		"Smart-Contract-Libraries-23b9",
-		"ERC20-Tokens-2fb2",
-		"NTFs-1f33",
+		"ERC20-Tokens-01-2fb2",
+		"ERC20-Tokens-02-5f90",
+		"NTFs-01-1f33",
+		"NTFs-02-a253",
 		"Oracles-01-389f",
+		"Oracles-02-530b",
 		"Chainlink-01-36e2",
-		"Chainlink-Data-Feeds-abbf",
+		"Chainlink-02-e7c3",
+		"Chainlink-Data-Feeds-01-abbf",
+		"Chainlink-Data-Feeds-2838",
 		"Chainlink-Automation-1b30",
-		"Automation-Custom-logic-Trigger-638c"
+		"Chainlink-Automation-162c",
+		"Chainlink-Automation-8e95",
+		"Chainlink-Automation-3b40",
+		"Automation-Custom-logic-Trigger-638c",
+		"Interoperability-973a",
+		"Interoperability-c8fd",
+		"Interoperability-3eb5",
+		"Interoperability-6f18",
+		"Interoperability-12e9"
 	]
 }

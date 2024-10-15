@@ -1,0 +1,17 @@
+{
+	"id": "28382348-4b97-0ef4-f743-8283b3d41107",
+	"title": "Chainlink Data Feeds",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

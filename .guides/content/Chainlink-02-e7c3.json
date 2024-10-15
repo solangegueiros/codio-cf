@@ -1,0 +1,17 @@
+{
+	"id": "e7c3b815-7521-da4a-2227-be58f4aeb032",
+	"title": "Chainlink 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

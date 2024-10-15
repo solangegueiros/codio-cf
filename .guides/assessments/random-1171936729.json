@@ -1,15 +1,15 @@
 {
 	"type": "random",
-	"taskId": "random-319265797",
+	"taskId": "random-1171936729",
 	"source": {
-		"name": "Solidity 01",
+		"name": "NTFs",
 		"points": 1,
 		"useMaximumScore": false,
 		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
 		"search": [
 			{
 				"name": "Topic",
-				"value": "Solidity"
+				"value": "NFTs"
 			},
 			{
 				"name": "Content",

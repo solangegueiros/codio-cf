@@ -1,0 +1,17 @@
+{
+	"id": "5f90e294-7009-454b-8d9a-ea1a8cc5878b",
+	"title": "ERC20 Tokens 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,17 @@
+{
+	"id": "9f5a7d78-b4df-b8aa-fad6-43f066fd55b5",
+	"title": "Solidity 04",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

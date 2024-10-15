@@ -1,19 +1,19 @@
 {
 	"type": "random",
-	"taskId": "random-319265797",
+	"taskId": "random-3327132532",
 	"source": {
-		"name": "Solidity 01",
+		"name": "Oracles 02",
 		"points": 1,
 		"useMaximumScore": false,
 		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
 		"search": [
 			{
-				"name": "Topic",
-				"value": "Solidity"
-			},
-			{
 				"name": "Content",
 				"value": "CLF"
+			},
+			{
+				"name": "Topic",
+				"value": "Oracles"
 			}
 		],
 		"libraryName": "SmartContract Assessments Library"

@@ -1,0 +1,17 @@
+{
+	"id": "3b40fb82-6a3c-784c-5d14-4b44c6d9a7f3",
+	"title": "Chainlink Automation",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

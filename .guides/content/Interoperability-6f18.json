@@ -1,0 +1,17 @@
+{
+	"id": "6f18bbcb-45cc-a8f2-0412-4ba384079ae8",
+	"title": "Interoperability",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

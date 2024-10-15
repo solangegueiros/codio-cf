@@ -1,0 +1,17 @@
+{
+	"id": "530bbbe7-72eb-da96-aadd-2fd90e7fd4c7",
+	"title": "Oracles 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

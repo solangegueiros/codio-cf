@@ -1,0 +1,17 @@
+{
+	"id": "0fbf1736-0875-bce7-7560-63067c421896",
+	"title": "Transporter",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

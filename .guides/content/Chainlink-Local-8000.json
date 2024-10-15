@@ -1,0 +1,17 @@
+{
+	"id": "80000997-df6d-04a4-fc73-fdd53d057cfe",
+	"title": "Chainlink Local",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

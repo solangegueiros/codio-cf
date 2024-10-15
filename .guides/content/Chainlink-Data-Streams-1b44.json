@@ -1,0 +1,17 @@
+{
+	"id": "1b44ffe5-b138-f0b2-e6a2-b88ec872eb73",
+	"title": "Chainlink Data Streams",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

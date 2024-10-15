@@ -1,0 +1,17 @@
+{
+	"id": "9da4d3e2-57d7-56f2-0030-bc2469f91d83",
+	"title": "Chainlink Functions",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

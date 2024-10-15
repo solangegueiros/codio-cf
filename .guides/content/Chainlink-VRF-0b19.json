@@ -1,0 +1,17 @@
+{
+	"id": "0b197f3e-7459-29f3-c68f-299c48c08be0",
+	"title": "Chainlink VRF",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

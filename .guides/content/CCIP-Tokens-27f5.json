@@ -1,0 +1,17 @@
+{
+	"id": "27f57f39-5551-1c2a-7518-c5b137bcda2e",
+	"title": "CCIP Tokens",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

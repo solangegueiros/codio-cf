@@ -1,0 +1,17 @@
+{
+	"id": "733969a1-1a1c-7277-1035-cb8426d0db86",
+	"title": "CCIP Messages",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

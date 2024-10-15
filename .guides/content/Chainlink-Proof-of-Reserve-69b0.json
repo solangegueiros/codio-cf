@@ -1,0 +1,17 @@
+{
+	"id": "69b05121-d89b-a07e-dbc6-f93c81454d5a",
+	"title": "Chainlink Proof of Reserve",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

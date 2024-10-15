@@ -1,0 +1,17 @@
+{
+	"id": "88a62d80-165d-cc3c-8a27-6b337f6ff13c",
+	"title": "Solidity Fundamentals 01",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "1-panel"
+}

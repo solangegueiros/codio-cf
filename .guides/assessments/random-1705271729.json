@@ -3,7 +3,7 @@
 	"taskId": "random-1705271729",
 	"source": {
 		"name": "Chainlink VRF 02",
-		"points": 20,
+		"points": 1,
 		"useMaximumScore": false,
 		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
 		"search": [
